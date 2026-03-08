@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Ujian Online Psikotes Polri",
+  "description": "Platform ujian online untuk simulasi psikotes masuk Polri (Kepribadian, Ketelitian, Kecerdasan) dengan fitur manajemen admin dan ekspor hasil.",
+  "requestFramePermissions": []
+}
